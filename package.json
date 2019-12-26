@@ -1,0 +1,19 @@
+{
+  "name": "dotenv-sandbox",
+  "version": "1.0.0",
+  "description": "Experimenting with dotenv functionalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ironest/dotenv-sandbox.git"
+  },
+  "author": "Riccardo Carzaniga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ironest/dotenv-sandbox/issues"
+  },
+  "homepage": "https://github.com/ironest/dotenv-sandbox#readme"
+}
