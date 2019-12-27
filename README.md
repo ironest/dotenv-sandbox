@@ -12,3 +12,8 @@
 
 ### Use cases
 When creating a node app, you don’t want to hardcode in your source code sensitive information such as **passwords** or **api keys**. The same applies to specific configurations which might differ between DEV, TEST and PROD environments; you cannot have them hardcoded in your source code. A possible solution is to keep those information in environment variables (similarly to what Azure, Netlify and Heroku expect)
+
+### Dependencies (for this repo specifically)
+
+* **dotenv**
+* **express**
